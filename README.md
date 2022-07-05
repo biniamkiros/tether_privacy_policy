@@ -79,10 +79,7 @@ We may share Your personal information in the following situations:
 
 * **With Service Providers:** We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.
 * **For business transfers:** We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
-* **With Affiliates:* We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
-* **With business partners:** We may share Your information with Our business partners to offer You certain products, services or promotions.
 * **With other users:* when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.
-* **With Your consent:** We may disclose Your personal information for any other purpose with Your consent.
 
 # Retention of Your Personal Data
 The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
